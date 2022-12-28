@@ -13,8 +13,3 @@ Taking into account input from the machine learning prediction considerably impr
 
 ## Conclusion
 The results show that the machine learning model integrated into the CDSS can improve clinicians’ performance in predicting patients’ quality of life.
-
-## Dataset
-Data for the study were collected in seven waves: baseline (3-4 weeks post-diagnosis) and 3, 6, 9, 12, 15 and 18 months after the baseline. The data collection process and strategy is described in details in [1]. Each data collection wave comprised a set of specific measures able to capture changes in specific domains. Variables can be classified into three domains: (1) sociodemographic and lifestyle, (2) medical and treatment-related and (3) psychosocial.
-
-## Results
